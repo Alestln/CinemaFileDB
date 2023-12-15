@@ -1,0 +1,9 @@
+{
+  "Id": 189,
+  "Seance": 1,
+  "FilmName": "Spiderman: No way home",
+  "Start": "2023-12-15T11:00:00",
+  "Place": 8,
+  "Price": 1599,
+  "ClientId": null
+}

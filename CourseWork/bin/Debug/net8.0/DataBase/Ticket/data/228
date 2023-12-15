@@ -1,0 +1,9 @@
+{
+  "Id": 228,
+  "Seance": 2,
+  "FilmName": "Dumb & Dumber",
+  "Start": "2023-12-15T15:00:00",
+  "Place": 25,
+  "Price": 640,
+  "ClientId": null
+}

@@ -1,0 +1,9 @@
+{
+  "Id": 195,
+  "Seance": 1,
+  "FilmName": "Lion King",
+  "Start": "2023-12-15T14:00:00",
+  "Place": 14,
+  "Price": 1173,
+  "ClientId": null
+}

@@ -1,0 +1,9 @@
+{
+  "Id": 131,
+  "Seance": 1,
+  "FilmName": "Форсаж",
+  "Start": "2023-12-15T18:00:00",
+  "Place": 10,
+  "Price": 1623,
+  "ClientId": null
+}

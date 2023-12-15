@@ -1,0 +1,11 @@
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\My Programs\Rider\Rider Projects\CourseWork\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
